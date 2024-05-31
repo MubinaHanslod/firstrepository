@@ -1,4 +1,4 @@
 # firstrepository
-My first time using github repository
+My first time using the GitHub repository
 Getting introduced by IBM
-Doing IBM Data Science Professional Certificate Course
+Doing the IBM Data Science Professional Certificate Course
